@@ -5,7 +5,7 @@ Welcome to the Lighthouse labs web fundamentals project!
 
 This is a simple Instagram clone built with HTML, CSS, and Ruby, leveraging Sinatra. 
 
-This project has been deployed Heroku! If you'd like to see it on the web, please visit: https://dashboard.heroku.com/apps/glacial-taiga-49066/settings
+This project has been deployed Heroku! If you'd like to see it on the web, please visit: https://glacial-taiga-49066.herokuapp.com/
 
 
 ## Environment Setup Instructions
